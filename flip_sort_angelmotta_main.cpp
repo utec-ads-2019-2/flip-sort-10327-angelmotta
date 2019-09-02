@@ -34,5 +34,6 @@ int main(){
 		bubble(arr, arr_size); 
 		printf("Minimum exchange operations : %d\n", min_mov);
 	}
+	return 0;
 }
 
